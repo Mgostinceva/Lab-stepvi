@@ -1,0 +1,336 @@
+@media (max-width: 500px) {
+  .item {
+    width: 130px;
+  }
+  
+  .property{
+	font-size: 22px;
+  }
+  
+  .description {
+    font-size: 12px;
+    margin-top: 5px;
+  }
+  
+  .order {
+    font-size: 15px;
+    padding: 12px;
+  }
+  
+   .name-company {
+    font-size: 30px;
+}
+  
+	.but-zakaz {
+	margin-top:13px;
+	}
+  
+   .block-1 {
+    margin-top: 0%;
+	}
+  
+	.block1 {
+    height: 58vh;
+	}
+	
+	.videos {
+    left: 15%;
+	}
+  
+    .text-ig {
+    font-size: 30px;
+	}
+	
+	.ingridients {
+    width: 40%;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	}
+	
+	.ingrt{
+	line-height: 80%;
+	width: 80%;
+	margin-left: 10%;
+	}
+	
+	.it-prod{
+	width:80%;
+	}
+	
+	.sostav-tf{
+	width:90%;
+	margin-top:0px;
+	}
+	
+	.pod-ingr {
+    font-size: 12px;
+	}
+	
+	.name-ingr{
+	font-size:16px;
+	}
+	
+	.backg-pattern{
+	margin-top:-20px;
+	}
+	
+	.doc{
+	width:100%;
+	margin-left: 15%;
+	}
+	
+	.text-doctor {
+    margin-top:auto;
+	}
+
+	.carousel-control-next, .carousel-control-prev{
+	width:auto
+	}
+	
+	.text-review {
+    width: 350px;
+	margin-left: 62px;
+	}
+	
+	.carousel-control-prev{
+	margin-left: 30px;
+	}
+	
+	.block3{
+	padding-bottom:140px;
+	}
+	
+	.haracter {
+    font-size: 14px;
+    margin-top: 0px;
+	}
+	
+	.text-doc{
+	font-size: 22px;
+	padding-bottom: 0px !important;
+	}
+	
+	.orders-go{
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	}
+	
+	.te-ic {
+    font-size: 13px;
+	}
+	
+	.form-comp{
+    font-size: 60px;
+	}
+	
+	.text-formp {
+    font-size: 30px;
+	}
+	
+	.price-new{
+	text-align: center;
+    font-size: 50px;
+	}
+	
+	.block5{
+	margin-top: -50px;
+	}
+	
+	.new-price {
+    margin-left: 0%;
+	}
+	
+	.old-price {
+    font-size: 30px;
+    margin-left: 5%;
+	}
+	
+	.order {
+    font-size: 13px;
+    padding: 10px;
+	}
+	
+	.sub {
+    font-size: 15px;
+	}
+	
+	.sostavi {
+    height: 70vh;
+	}
+	
+	.block2 {
+    height: 80vh;
+	}
+	
+	.reviewes {
+    font-size: 14px;
+	}
+	
+	.review-author {
+    font-size: 18px;
+	}
+	
+	.zagolovok {
+    margin-bottom: 20px;
+	}
+	
+	.description {
+    font-size: 11px;
+    margin-top: 0px;
+	}
+	
+	.property {
+    font-size: 15px;
+	}
+	
+	
+	.img-yeprod{
+	margin-top: 40px;
+	}
+	
+	.block-1 {
+    margin-top: 5%;
+	}
+	
+	.menu {
+    font-size: 12px;
+	margin-top: 15px;
+}
+	.backg{
+	height: 90vh;
+	}
+	 
+	
+	.item-price {
+    width: 100%;
+}
+	.price-new {
+    padding-bottom: 20px;
+}
+	
+	
+}
+@media (max-width: 414px) {
+	
+.videos {
+    left: -9%;
+}
+	
+	.but-zakaz {
+    margin-top: 10px;
+}
+	
+	.description {
+    line-height: 1.4;
+}
+	
+	.pod-ingr {
+    font-size: 11px;
+}
+	
+	.name-ingr {
+    font-size: 14px;
+}
+	
+	.block3 {
+    padding-bottom: 0px;
+}
+	
+	.doctor {
+    padding-top: 220px;
+}
+	
+	.text-review {
+    width: 250px;
+    margin-left: 18%;
+}
+	
+	.item-price {
+    width: 100%;
+}
+	
+	.forms {
+    margin-top: 25px;
+}
+	
+	.old-price {
+    margin-left: 5%;
+}
+	.price-new {
+    padding-bottom: 20px;
+}
+	
+  
+}
+@media (max-width: 375px) {
+ 
+	.block1 {
+    height: 70vh;
+}
+
+	.it-prod {
+    width: 100%;
+}
+
+	.videos {
+    left: -9%;
+}
+  
+  .form-time{
+  display:none;
+}
+
+  .text-review {
+    width: 220px;
+    margin-left: 19%;
+}
+  
+  .doctor {
+    padding-top: 90%;
+}
+  
+  .backg-pattern {
+    margin-top: 30px;
+}
+  
+  .text-formp {
+    font-size: 22px;
+}
+  
+  .img-fluid{
+	width:100px;
+	}
+	
+  
+ }
+
+
+ 
+  @media (max-width: 360px) {
+	  
+	.loading {
+    margin-left: 5px;
+    margin-top: 40px;
+}
+	
+	.block1 {
+    height: 76vh;
+}
+	
+	.backg-pattern {
+    margin-top: 50px;
+}
+
+	.text-review {
+    width: 200px;
+}
+
+	.doctor {
+    padding-top: 120%;
+}
+	
+	.img-fluid{
+	width:90px;
+	}
+	
+}
